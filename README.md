@@ -168,9 +168,4 @@ This automation is a core component of CI/CD pipelines, enabling teams to:
 
 The skills learned in this project form the foundation for more advanced CI/CD practices and can be extended to include automated testing, code quality checks, and deployment steps.
 
-## Additional Resources
 
-- [Jenkins Freestyle Projects Documentation](https://www.jenkins.io/doc/book/pipeline/freestyle-projects/)
-- [GitHub Webhooks Documentation](https://docs.github.com/en/developers/webhooks-and-events/webhooks)
-- [Jenkins Git Plugin Documentation](https://plugins.jenkins.io/git/)
-- [Best Practices for Jenkins Jobs](https://www.jenkins.io/doc/book/pipeline/pipeline-best-practices/)
