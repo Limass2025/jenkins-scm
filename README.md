@@ -1,6 +1,3 @@
-# jenkins-scm
-
-
 # Jenkins Freestyle Project Setup: Step-by-Step Guide
 
 ## Introduction to Jenkins Jobs
